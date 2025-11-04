@@ -472,7 +472,7 @@ const handleCollapse = () => {
                   <div className={styles.media_fill}>
                     <figure>
                       <img
-                        src="https://images.unsplash.com/photo-1716547286289-3e650d7bdf7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHVuc3BhbHNofGVufDB8fDB8fHww"
+                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-09-19T06%253A14%253A35.113Z-5.png&w=3840&q=75"
                         alt="Floor 1"
                       />
                     </figure>

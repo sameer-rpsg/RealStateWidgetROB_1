@@ -122,20 +122,7 @@ const Article = () => {
                     couture into a way of living.
                   </span>
                 </p>
-                <p style={{ textAlign: "left" }} />
-                <p style={{ textAlign: "left" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    Set 6,000 feet above sea level in Kalakhet, Uttarakhand, a
-                    sensitive eco-zone in the Indian Himalayas, Aatman marks the
-                    beginning of Rahul Mishra Spaces, the designer’s
-                    architectural extension. What he once expressed in
-                    embroidery, silk, and handwoven cloth now finds its form in
-                    stone walls, wooden beams, and glass expanses, each material
-                    chosen for its permanence yet arranged in a way that the
-                    building appears to rest lightly within the mountains rather
-                    than impose upon them.
-                  </span>
-                </p>
+               
                 <h2 style={{ textAlign: "left", fontSize: "34px!important" }}>
                   <span style={{ color: "rgb(0, 0, 0)" }}>
                     Architecture Carved by Artisans
@@ -173,6 +160,20 @@ const Article = () => {
                           Image courtesy: Rahul Mishra
                         </span>
                       </div>
+                       <p style={{ textAlign: "left" }} />
+                <p style={{ textAlign: "left" }}>
+                  <span style={{ color: "rgb(0, 0, 0)" }}>
+                    Set 6,000 feet above sea level in Kalakhet, Uttarakhand, a
+                    sensitive eco-zone in the Indian Himalayas, Aatman marks the
+                    beginning of Rahul Mishra Spaces, the designer’s
+                    architectural extension. What he once expressed in
+                    embroidery, silk, and handwoven cloth now finds its form in
+                    stone walls, wooden beams, and glass expanses, each material
+                    chosen for its permanence yet arranged in a way that the
+                    building appears to rest lightly within the mountains rather
+                    than impose upon them.
+                  </span>
+                </p>
                       <RealStateWidget1/>
                     </div>
                   </div>
@@ -211,57 +212,8 @@ const Article = () => {
                     Design That Breathes With the Mountains
                   </span>
                 </h2>
-                <div>
-                  <div
-                    style={{
-                      display: "flex",
-                      justifyContent: "center",
-                      margin: "20px 0",
-                    }}
-                  >
-                    <div className="story-hoverDiv" style={{ width: "100%" }}>
-                      <img
-                        alt={5}
-                        loading="lazy"
-                        width={700}
-                        height={475}
-                        decoding="async"
-                        data-nimg={1}
-                        style={{
-                          color: "transparent",
-                          width: "100%",
-                          height: "auto",
-                        }}
-                        sizes="100vw"
-                        src="https://www.robbreportindia.com/_next/image?url=https%3A%2F%2Fcdn.robbreportindia.com%2Farticle%2F2025-09-19T06%253A14%253A35.113Z-5.png&w=3840&q=75"
-                      />
-                      <div className="story-photoBy">
-                        <span className="story-caption">
-                          At Aatman, sustainability is not an afterthought but
-                          the design’s very foundation.{" "}
-                        </span>
-                        <span className="story-courtesy">
-                          Image courtesy: Rahul Mishra
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <p style={{ textAlign: "left" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    At Aatman, sustainability is not an afterthought but the
-                    design’s very foundation. The residence follows passive
-                    house principles, its alignment at precisely 99 degrees east
-                    ensuring a constant embrace of daylight. Low-emission
-                    glazing and thermal chimneys regulate temperature, while
-                    natural cross-breezes drifting down from the ridgeline cool
-                    the interiors without the need for mechanical intervention.
-                    The vast panes of glass do more than frame the views; they
-                    dissolve the line between home and forest, so the rustle of
-                    leaves and the play of mountain light become part of
-                    everyday life.
-                  </span>
-                </p>
+             
+                
                 <h2 style={{ textAlign: "left", fontSize: "34px!important" }}>
                   <span style={{ color: "rgb(0, 0, 0)" }}>
                     A Living, Breathing Ecosystem
@@ -314,32 +266,8 @@ const Article = () => {
                     />
                   </div>
                 </div>
-                <p style={{ textAlign: "left" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    The house functions like a self-sustaining organism. Solar
-                    panels generate three times the energy consumed, rainwater
-                    is collected and returned to daily use, and organic waste is
-                    composted to enrich the gardens that supply the kitchen.
-                    Even the orchards and ponds serve a larger purpose: fruit is
-                    deliberately left for birds, water bodies provide refuge for
-                    wildlife, and every decision is made to create reciprocity
-                    between residents and the land. Nothing feels ornamental,
-                    yet everything has intention.
-                  </span>
-                </p>
-                <p style={{ textAlign: "left" }} />
-                <p style={{ textAlign: "left" }}>
-                  <span style={{ color: "rgb(0, 0, 0)" }}>
-                    At a time when much of global design appears to drift
-                    further away from ecology and place, Aatman offers a
-                    gentler, circular vision of luxury, one where architecture
-                    protects as much as it inspires. Between his ateliers in
-                    Paris, his studio in New Delhi, and now this Himalayan
-                    ridge, Rahul Mishra’s voice is consistent and clear: beauty
-                    cannot be fleeting, and neither can the landscapes that
-                    allow beauty to exist in the first place.
-                  </span>
-                </p>
+               
+               
                 <div
                   style={{
                     display: "flex",
@@ -660,36 +588,7 @@ const Article = () => {
             </div>
           </div>
         </div>
-        <div
-          className="nextStoryContainer"
-          style={{
-            margin: "20px 0px",
-            display: "flex",
-            alignItems: "center",
-            width: "100%",
-            backgroundColor: "var(--body-bg-color)",
-            gap: "1rem",
-          }}
-        >
-          <h2
-            style={{
-              fontFamily: "serif",
-              fontSize: "1.8rem",
-              fontWeight: "bold",
-              whiteSpace: "nowrap",
-              marginLeft: 12,
-            }}
-          >
-            Next Story
-          </h2>
-          <div
-            style={{
-              flexGrow: 1,
-              height: 1,
-              backgroundColor: "var(--text-color)",
-            }}
-          />
-        </div>
+       
         <div
           data-id="68ccf8c16c2f06094f81a71f"
           data-slug="/home-and-design/real-estate/rahul-mishra-aatman-kalakhet-uttarakhand-himalayas"
