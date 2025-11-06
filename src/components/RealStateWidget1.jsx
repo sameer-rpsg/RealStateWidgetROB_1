@@ -431,7 +431,15 @@ const handleCollapse = () => {
 
 
   return (
-    <div className={styles.wrapper} style={{backgroundImage:"url(https://www.datocms-assets.com/143478/1743156408-gr-hero.jpg?auto=format&fit=max&h=1920&q=85&w=1920)"}}>
+    <div className={styles.wrapper}>
+       <video
+        className={styles.videoBg}
+        loop
+        muted
+        playsInline
+        autoPlay
+        src="https://www.pexels.com/download/video/7578542/"
+      ></video>
      {/* <div className={styles.boxImgCntr}>
       <img className={styles.boxImg} src="https://www.datocms-assets.com/143478/1743156408-gr-hero.jpg?auto=format&fit=max&h=1920&q=85&w=1920" alt="" /></div> */}
       <div className={styles.box} ref={containerRef}>
